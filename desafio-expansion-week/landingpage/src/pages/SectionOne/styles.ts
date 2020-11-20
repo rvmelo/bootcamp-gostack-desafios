@@ -22,6 +22,7 @@ ul {
 
     &:hover {
       transform: translateX(20px);
+      cursor: pointer;
     }
 
   }
