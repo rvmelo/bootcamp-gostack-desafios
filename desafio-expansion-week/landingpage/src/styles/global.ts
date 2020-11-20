@@ -54,11 +54,10 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: auto;
-  margin-top: 80px;
   padding: 50px;
   align-items: center;
   justify-content: center;
+  margin: 30px auto;
 
   h1 {
     margin-bottom: 20px;
